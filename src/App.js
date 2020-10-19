@@ -5,6 +5,7 @@ export const App = () => {
   return (
     <main>
       <Tooltip tooltipText="Hello I am helping!"/>
+      <p>Text</p>
     </main>
   )
 }
